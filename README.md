@@ -1,7 +1,8 @@
 # ejerciciodepractica
-practica para aprender usar gitHub
-Nombre:_Esmeralda Martinez Valtierra_
-Edad: _17 años_
-Grupo:_5D_
-Especialidad:***Programacion***
+## practica para aprender usar gitHub
+### Datos generales:
+#### Nombre:_Esmeralda Martinez Valtierra_
+##### Grupo:_5D_
+###### Especialidad:***Programacion***
+
 
