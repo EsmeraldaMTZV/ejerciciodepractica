@@ -44,7 +44,7 @@ de estar en formato markdown.
 archivo en formato markdown.
 _¡Listo! Has creado tu primer repositorio en GitHub. Ahora está vacío, excepto por el archivo README.md y
 el archivo instrucciones.md que acabas de generar._
-######Paso 4: Clona tu repositorio en tu computadora
+###### **Paso 4: Clona tu repositorio en tu computadora**
  _Ahora, necesitamos una copia de este repositorio en tu computadora para poder trabajar en él localmente._
 1. En la página de tu repositorio en GitHub: Busca el botón verde "Code" y haz clic en él.
 2. Copia la URL HTTPS: Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente
