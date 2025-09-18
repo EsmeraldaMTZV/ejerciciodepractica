@@ -1,7 +1,7 @@
 # __Creando tu cuenta y tu primer repositorio__
 ## _Sigue estos pasos cuidadosamente:_
 ### **Paso 1: Crea tu cuenta de GitHub**
- 1. [Ve al sitio web: Abre tu navegador y visita] (https://GitHub.co).
+ 1. Ve al sitio web: Abre tu navegador y visita https://GitHub.co.
  2. Regístrate: Busca y haz clic en el botón "Sign up" o "Registrarse".
  3. Completa la información: Te pedirá un correo electrónico, una contraseña y un nombre de usuario.
   Consejo importante: Elige un nombre de usuario profesional (ej. tu nombre y apellido, o
